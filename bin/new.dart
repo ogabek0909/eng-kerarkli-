@@ -12,7 +12,7 @@ String func(a) {
     } else
       return y = a[q] + a[q + 1].toString();
   }
-  return y.toString();
+  return y.();
 }
 
 void main() {
